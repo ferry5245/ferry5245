@@ -1,29 +1,35 @@
-## About Me 
-Hey people, I am Ferry Chandra. I am enrolled as Engineering Physics Student of Telkom University. I have an interest in programming, especially in Python and C languages.
-Although that I am a complete freshman to this kind of stuffs, but I am looking forward to improve myself much further.
+## **About Me**
+Hey people, I am Ferry Chandra. I am enrolled as Engineering Physics Student of Telkom University. I am a programming enthusiast. Especially when it comes to Machine Learning, Data Science and Website Development. I am looking forward to find new people to learn with. So, don't hesitate to reach me out so we can discuss about a lot of tech stuffs and be cool about it!!!
 
-## Tools and Languages (Still Learning)
-<p>
-  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a> 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-  <a href="https://atom.io/"><img src="https://img.icons8.com/ios/50/000000/atom-editor.png"/></a>
-</p>
+## **Programming/Markup Languages**
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
+- Git
+- GitHub
+- Arduino
+- Matlab / GNU Octave
 
-## My Hobbies
+## **My Hobbies**
+- Coding
 - Basketball
-- Music (Beatbox, Choir, and Concert Flute)
-- Cycling
+- Music
 - Public Speaking
 
-## Interests
-- Programming and Web Development
-- Cryptocurrencies and Investment
-- Philosophy and Theology
+## **Interests**
+- Data Science
+- Machine Learning
+- Website Development (Fullstack and Backend Development)
+- Low Level Programming
+- Philosophy
 - Basketball
 - Etc
 
-## Contact Me
+## **Contact Me**
 <p>
   <a href="https://github.com/ferry5245"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
   <a href="https://www.facebook.com/ignatiusferry.chandra"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
